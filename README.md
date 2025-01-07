@@ -39,12 +39,3 @@ This project addresses the critical challenge of diagnosing maize diseases, spec
 
 ---
 
-## 🚀 Repository Structure  
-
-```plaintext
-.
-├── training/          # Training scripts for deep learning models
-├── evaluation/        # Evaluation scripts for model performance
-├── deployment/        # Raspberry Pi deployment code
-├── XAI/               # Scripts for Grad-CAM, Saliency Maps, and LIME
-├── README.md          # Project overview
